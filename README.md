@@ -1,2 +1,2 @@
 # ignitefaith
-ministry lms
+ministry church flutter app
